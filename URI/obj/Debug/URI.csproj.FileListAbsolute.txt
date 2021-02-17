@@ -1,0 +1,7 @@
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\bin\Debug\URI.exe.config
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\bin\Debug\URI.exe
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\bin\Debug\URI.pdb
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.csprojAssemblyReference.cache
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.csproj.CoreCompileInputs.cache
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.exe
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.pdb
