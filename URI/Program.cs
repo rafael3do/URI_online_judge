@@ -8,8 +8,9 @@ namespace URI
 {
     class Program
     {
-        static void Main_URI(string[] args)
+        static void Main(string[] args)
         {
+           
             //HMG
             //Console.ReadKey();
         }
