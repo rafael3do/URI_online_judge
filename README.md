@@ -12,3 +12,4 @@ URI Online https://www.urionlinejudge.com.br
 <br>[1007](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1007.cs).<br>
 <br>[1008](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1008.cs).<br>
 <br>[1009](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1009.cs).<br>
+<br>[1010](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1010.cs).<br>
