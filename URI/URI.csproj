@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>URI.URI_1012</StartupObject>
+    <StartupObject>URI.URI_1013</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Compile Include="URI_1010.cs" />
     <Compile Include="URI_1011.cs" />
     <Compile Include="URI_1012.cs" />
+    <Compile Include="URI_1013.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
