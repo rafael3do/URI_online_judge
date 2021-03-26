@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>URI.URI_1036</StartupObject>
+    <StartupObject>URI.URI_1037</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
@@ -70,6 +70,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="URI_1037.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="URI_1019.cs" />
