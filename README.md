@@ -26,3 +26,4 @@ URI Online https://www.urionlinejudge.com.br
 <br>[1021](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1021.cs).<br>
 <br>[1035](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1035.cs).<br>
 <br>[1036](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1036.cs).<br>
+<br>[1037](https://github.com/rafael3do/URI_online_judge/blob/main/URI/URI_1037.cs).<br>
