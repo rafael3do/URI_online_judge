@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="URI.exe" size="20992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="URI.exe" size="21504">
       <assemblyIdentity name="URI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FV7k2YUiC7oaENyJ3m9w137bSMkNZv14WqVh70nFQys=</dsig:DigestValue>
+        <dsig:DigestValue>c1vC1NPzmsTa2oRSgfpeIC9ldHpi7NzYFcqUaxCaz7E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
