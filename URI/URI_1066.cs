@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace URI
 {
@@ -36,8 +32,7 @@ namespace URI
             Console.WriteLine(even + " valor(es) par(es)");
             Console.WriteLine(odd + " valor(es) impar(es)");
             Console.WriteLine(positive + " valor(es) positivo(s)");
-            Console.WriteLine(negative + " valor(es) negativo(s)");
-            
+            Console.WriteLine(negative + " valor(es) negativo(s)");           
         
     }
     }
