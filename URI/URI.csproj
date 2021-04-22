@@ -116,6 +116,7 @@
     <Compile Include="URI_1061.cs" />
     <Compile Include="URI_1064.cs" />
     <Compile Include="URI_1065.cs" />
+    <Compile Include="URI_1066.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
