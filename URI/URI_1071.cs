@@ -5,8 +5,7 @@ namespace URI
     class URI_1071
     {
         static void Main (string [] args)
-        {
-           
+        {           
             int z = 0;
             int x = Convert.ToInt32(Console.ReadLine());
             int y = Convert.ToInt32(Console.ReadLine());
