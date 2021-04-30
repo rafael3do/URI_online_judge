@@ -2,7 +2,7 @@
 
 namespace URI
 {
-    class URI_1073
+    class URI_1074
     {
         static void Main (string [] args)
         {
