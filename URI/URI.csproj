@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>URI.URI_1072</StartupObject>
+    <StartupObject>URI.URI_1074</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
@@ -121,6 +121,8 @@
     <Compile Include="URI_1070.cs" />
     <Compile Include="URI_1071.cs" />
     <Compile Include="URI_1072.cs" />
+    <Compile Include="URI_1073.cs" />
+    <Compile Include="URI_1074.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
