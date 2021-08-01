@@ -26,9 +26,7 @@ namespace URI
                 }
 
             }
-           Console.Write(maior + "\n" + posicao + "\n");
-           
-        }
-    
+           Console.Write(maior + "\n" + posicao + "\n");           
+        }    
     }
 }
