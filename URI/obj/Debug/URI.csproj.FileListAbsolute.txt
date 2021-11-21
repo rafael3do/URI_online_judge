@@ -10,3 +10,4 @@ C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\bin\Debug\URI.applica
 C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.TrustInfo.xml
 C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.exe.manifest
 C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.application
+C:\Users\1513 X-MXTI\Documents\GitHub\URI_online_judge\URI\obj\Debug\URI.csproj.AssemblyReference.cache
